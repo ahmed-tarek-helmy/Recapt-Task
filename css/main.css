@@ -179,10 +179,13 @@ h5 {
   width: 90%;
 }
 .logo-img-footer {
-  width: 45%;
+  width: 60%;
 }
 .color-footer-a {
   color: #412966ad;
+}
+.icon-margin {
+  margin-left: 20px;
 }
 /* ===============================================================Images============ */
 .img-icon {
