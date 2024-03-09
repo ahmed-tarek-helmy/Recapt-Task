@@ -1,0 +1,214 @@
+  <div id="carouselExampleIndicators" class="carousel slide ">
+      <div class="carousel-indicators ">
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
+      </div>
+      
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <div class="container">
+            <div class="row gap-4 my-3  text-center ">
+              <div class="col-md-2 col-12">
+                <img src="./ReacptAssets/Partners/ABDAL.svg" class="d-block" alt="ABDAL">
+              </div>
+              <div class="col-md-2 col-12">
+                <img src="./ReacptAssets/Partners/ALMUNAJEM.svg" class="d-block" alt="ALMUNAJEM">
+              </div>
+              <div class="col-md-2 col-12">
+                <img src="./ReacptAssets/Partners/Alwfaasvg.svg" class="d-block" alt="Alwfaasvg">
+              </div>
+              <div class="col-md-2 col-12">
+                <img src="./ReacptAssets/Partners/ctc.svg" class="d-block" alt="ctc">
+              </div>
+              <div class="col-md-2 col-12">
+                <img src="./ReacptAssets/Partners/EUROFIX.png" class="d-block " alt="EUROFIX">
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- ====================================================================================== -->
+        <div class="carousel-item">
+          <div class="container">
+            <div class="row gap-4 my-3 mx-auto">
+              <div class="col-md-2 col-12">
+                <img src="./ReacptAssets/Partners/iss.png" class="d-block" alt="iss">
+              </div>
+              <div class="col-md-2 col-12">
+                <img src="./ReacptAssets/Partners/JAWAaa.png" class="d-block" alt="JAWAaa">
+              </div>
+              <div class="col-md-2 col-12">
+                <img src="./ReacptAssets/Partners/JAWAHR.svg" class="d-block" alt="JAWAHR">
+              </div>
+              <div class="col-md-2 col-12">
+                <img src="./ReacptAssets/Partners/MEST.png" class="d-block" alt="MEST">
+              </div>
+              <div class="col-md-2 col-12">
+                <img src="./ReacptAssets/Partners/MIC.svg" class="d-block " alt="MIC">
+              </div>
+            </div>
+          </div>
+        </div>
+      <!-- ============================================================================== -->
+      <div class="carousel-item">
+        <div class="container">
+          <div class="row gap-4 my-3 mx-auto">
+            <div class="col-md-2 col-12">
+              <img src="./ReacptAssets/Partners/NURVE PARTNERS.svg" class="d-block" alt="NURVE PARTNERS">
+            </div>
+            <div class="col-md-2 col-12">
+              <img src="./ReacptAssets/Partners/OZEE.svg" class="d-block" alt="OZEE">
+            </div>
+            <div class="col-md-2 col-12">
+              <img src="./ReacptAssets/Partners/SHAWARMERsvg.svg" class="d-block" alt="SHAWARMERsvg">
+            </div>
+            <div class="col-md-2 col-12">
+              <img src="./ReacptAssets/Partners/stme.svg" class="d-block" alt="stme.svg">
+            </div>
+            <div class="col-md-2 col-12">
+              <img src="./ReacptAssets/Partners/MIC.svg" class="d-block " alt="MIC">
+            </div>
+          </div>
+        </div>
+      </div>
+  
+        <div class="carousel-control-prev ">
+          <span class="carousel-control-prev-icon bg-body-secondary " aria-hidden="true" 
+          type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev"></span>
+          <span class="visually-hidden">Previous</span>
+        </div>
+  
+        <div class="carousel-control-next ">
+          <span class=" carousel-control-next-icon bg-body-secondary" aria-hidden="true" 
+          type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next"></span>
+          <span class="visually-hidden">Next</span>
+        </div>
+  
+  
+  
+  
+    </div>
+  </div>
+
+
+===========================================================>another code<=====================================================
+
+ <div id="carouselExampleIndicators" class="carousel slide ">
+
+      <div class="carousel-indicators d-none d-md-block ">
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
+      </div>
+
+      <div class="carousel-indicators d-lg-none ">
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5"></button>
+
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="5" aria-label="Slide 6"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="6" aria-label="Slide 7"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="7" aria-label="Slide 8"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="8" aria-label="Slide 9"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="9" aria-label="Slide 10"></button>
+
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="10" aria-label="Slide 11"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="11" aria-label="Slide 12"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="12" aria-label="Slide 13"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="13" aria-label="Slide 14"></button>
+      </div>
+      
+      <div class="carousel-inner">
+        <div class="carousel-item active ">
+          <img src="./ReacptAssets/Partners/ABDAL.svg" class="d-block" alt="ABDAL">
+        </div>
+
+        <div class="carousel-item ">
+          <img src="./ReacptAssets/Partners/ALMUNAJEM.svg" class="d-block" alt="ALMUNAJEM">
+        </div>
+        
+        <div class="carousel-item">
+          <img src="./ReacptAssets/Partners/Alwfaasvg.svg" class="d-block" alt="Alwfaasvg">
+        </div>
+
+          <div class="carousel-item">
+            <img src="./ReacptAssets/Partners/ctc.svg" class="d-block" alt="ctc">
+          </div>
+        
+        <div class="carousel-item ">
+          <img src="./ReacptAssets/Partners/EUROFIX.png" class="d-block " alt="EUROFIX">
+        </div>
+        
+        <div class="carousel-item ">
+          <img src="./ReacptAssets/Partners/iss.png" class="d-block" alt="iss">
+        </div>
+
+        <div class="carousel-item ">
+          <img src="./ReacptAssets/Partners/JAWAaa.png" class="d-block" alt="JAWAaa">
+        </div>
+        
+        <div class="carousel-item ">
+          <img src="./ReacptAssets/Partners/JAWAHR.svg" class="d-block" alt="JAWAHR">
+        </div>
+        
+        <div class="carousel-item ">
+          <img src="./ReacptAssets/Partners/MEST.png" class="d-block" alt="MEST">
+        </div>
+
+        <div class="carousel-item">
+          <img src="./ReacptAssets/Partners/MIC.svg" class="d-block " alt="MIC">
+        </div>
+
+        <div class="carousel-item">
+          <img src="./ReacptAssets/Partners/NURVE PARTNERS.svg" class="d-block" alt="NURVE PARTNERS">
+        </div>
+        
+        <div class="carousel-item">
+          <img src="./ReacptAssets/Partners/OZEE.svg" class="d-block" alt="OZEE">
+        </div>
+
+        <div class="carousel-item">
+          <img src="./ReacptAssets/Partners/SHAWARMERsvg.svg" class="d-block" alt="SHAWARMERsvg">
+        </div>
+
+        <div class="carousel-item">
+          <img src="./ReacptAssets/Partners/MIC.svg" class="d-block " alt="MIC">
+        </div>
+      </div>
+  
+        <div class="carousel-control-prev ">
+          <span class="carousel-control-prev-icon bg-body-secondary " aria-hidden="true" 
+          type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev"></span>
+          <span class="visually-hidden">Previous</span>
+        </div>
+  
+        <div class="carousel-control-next ">
+          <span class=" carousel-control-next-icon bg-body-secondary" aria-hidden="true" 
+          type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next"></span>
+          <span class="visually-hidden">Next</span>
+        </div>
+  
+  
+  
+  
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+ 

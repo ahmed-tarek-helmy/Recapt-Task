@@ -1,0 +1,197 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root {
+  /* ? ######## Colors */
+  --color-default: #9057cd;
+  /* ? ######## Fonts */
+  --font-default: "Montserrat", sans-serif;
+}
+@media screen and (max-width: 768px) {
+  .container {
+    width: 100% !important;
+  }
+}
+
+body {
+  font-family: var(--font-default);
+}
+.container {
+  width: 77%;
+}
+/* ======================================>Header<===================================================== */
+
+.ul-NavBar {
+  font-size: 13px;
+}
+.text-logo {
+  color: var(--color-default);
+}
+.active {
+  color: var(--color-default) !important ;
+}
+
+.join-today {
+  color: var(--color-default);
+  transition-duration: 0.5s;
+  cursor: pointer;
+}
+.join-today:hover {
+  background-color: var(--color-default);
+  color: #ffffff !important;
+  transition-duration: 0.5s;
+}
+.arabic-language {
+  background-color: #fbfbfb;
+  border: 1px solid transparent;
+  font-size: 14px;
+  color: #9057cd;
+  cursor: pointer;
+}
+.arabic-language:hover {
+  border: 1px solid #9057cd;
+  border-radius: 7px;
+}
+.header-background {
+  background-color: #f6f3fa;
+}
+
+p,
+h1,
+h2,
+h3,
+h5 {
+  color: #402865;
+}
+.button-group {
+  background-color: #9057cd;
+  border: 1px solid #9057cd;
+  border-radius: 7px;
+  padding-block: 15px 15px;
+  padding-inline: 15px 14px;
+  font-size: 14px;
+  color: #eee;
+  transition-duration: 0.5s;
+}
+.download-app {
+  background-color: #f6f3fa;
+  color: #9057cd;
+}
+.button-group:hover {
+  background-color: #402865;
+  color: #eee;
+  transition-duration: 0.5s;
+}
+
+.button-group-nav {
+  background-color: #fafafa;
+  border: 1px solid #9057cd;
+  border-radius: 7px;
+  padding-block: 15px 15px;
+  padding-inline: 15px 14px;
+  font-size: 14px;
+  color: #9057cd;
+  transition-duration: 0.5s;
+}
+.button-group-nav:hover {
+  background-color: #402865;
+  color: #eee;
+  transition-duration: 0.5s;
+}
+.img-person-width {
+  width: 30rem;
+  max-width: 100%;
+}
+.img-person {
+  background-image: url("../ReacptAssets/Header/background-header.png");
+  /* width: 100%; */
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+/* ======================================================================================================== */
+.section-margin {
+  margin-top: 5.48rem;
+  margin-bottom: 5.48rem;
+}
+
+.qsalary-backgroundcolor {
+  background-color: #f6f3fa;
+}
+.app-backgroundColor {
+  background-color: #3d1e63;
+  background-image: url("../ReacptAssets/DownloadApp/image-background.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.bottom-50 {
+  bottom: -0.5% !important;
+}
+
+.padding-BottomApp {
+  padding-bottom: 5%;
+}
+/* =========================================================FAQ */
+.faq-width {
+  width: 30%;
+}
+.faq-colorArrow {
+  color: #9057cd !important;
+}
+
+/* ==================================================Sucess-Partner */
+.carousel-indicators [data-bs-target] {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #9057cd;
+}
+.sucess-partner {
+  margin-right: 33%;
+}
+.sucess-partner-png {
+  width: 170px;
+  height: 170px;
+}
+/* ===============================================empower */
+.img-circle-bottom {
+  left: 49%;
+  bottom: -9px;
+}
+/* =================================================Footer====================== */
+.subscribe-button {
+  background-color: #ffffff;
+  border: 1px solid #9057cd;
+  border-radius: 7px;
+  padding-block: 9px 9px;
+  padding-inline: 25px 25px;
+  font-size: 14px;
+  color: #9057cd;
+}
+.subscribe-button:hover {
+  background-color: #9057cd;
+  color: #ffffff;
+}
+.socialMedia-width {
+  width: 90%;
+}
+.logo-img-footer {
+  width: 45%;
+}
+.color-footer-a {
+  color: #412966ad;
+}
+/* ===============================================================Images============ */
+.img-icon {
+  transition: transform 0.4s;
+}
+.img-icon:hover {
+  transform: translateY(-10px);
+}
+.english_icon {
+  width: 18px;
+  height: 18px;
+}
